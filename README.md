@@ -11,8 +11,3 @@ Nasa World Wind 1.4 Version.
 
 # World Wind main form:
 ![image](https://github.com/hujiulin/WorldWind/blob/master/sceenshots/WorldWind.bmp)
-
-#If you have any question, please contact me: 
-- Email: tohujiulin@126.com
-- Blog: http://blog.coinidea.com/
-- Website: http://www.coinidea.com/
